@@ -2,7 +2,7 @@
 
 # About
 
-This repository contains code related to the manuscript "Transcription factors interact with RNA to regulate genes" on bioRxiv (https://doi.org/10.1101/2022.09.27.509776).
+This repository contains code related to the manuscript "Transcription factors interact with RNA to regulate genes" on bioRxiv (DOI: https://doi.org/10.1101/2022.09.27.509776).
 
 ## Contents
 1.	**rna_curvefit.ipynb** - A notebook for fitting protein-RNA binding isotherms from fluorescence anisotropy data. Fits the fraction of bound RNA as a function of protein concentration at constant RNA concentration.  
