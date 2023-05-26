@@ -1,4 +1,4 @@
-# 2022 Oksuz et al. TF-RNA
+# 2023 Oksuz and Henninger et al. TF-RNA
 
 # About
 
